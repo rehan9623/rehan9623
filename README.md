@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hello 👋  <br><br>I am Rehan Ansari, a beginner Python developer with a basic background in C and C++.  <br>I am learning Python and building projects to strengthen my understanding of programming concepts.<br><br>I am interested in data science and enjoy working with data, logic, and problem-solving tasks.  <br>This GitHub profile contains my practice projects and learning work as I continue to improve my skills.<br>
+# About Me:
+<br>I am Rehan Ansari, a beginner Python developer with a basic background in C and C++.  <br>I am learning Python and building projects to strengthen my understanding of programming concepts.<br><br>I am interested in data science and enjoy working with data, logic, and problem-solving tasks.  <br>This GitHub profile contains my practice projects and learning work as I continue to improve my skills.<br>
 
 
 ## 🌐 Socials:
